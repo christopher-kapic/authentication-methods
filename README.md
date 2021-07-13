@@ -33,7 +33,7 @@ Free for the first 1000 users.
 _Note: As I am preparing this chart, it is glaringly obvious that Auth0 is a bad choice for public applications (maybe it is better for internal business applications, but that is not exactly the point of this analysis). Do not use Auth0._
 
 | Price     | Firebase       | Cognito      | Supabase     | Userfront    | Auth0        | Netlify Identity   |
-| :-------- | :------------- | :----------: | :----------: | :----------: | :----------: | -----------------: |
+| :-------- | :------------: | :----------: | :----------: | :----------: | :----------: | :----------------: |
 | $0/month  | Unlimited      | 50,000       | 10,000       | 10,000       | 7,000        | 1000               |
 | $25/month | Unlimited      | 54,545       | 100,000      | 10,000       | ?            | 1000               |
 | $75/month | Unlimited      | 63,636       | Unlimited    | 10,000       | ?            | 1000               |
