@@ -7,5 +7,6 @@ Pros:
  - Only $25/month for 100,000 users
  - Only $75/month for unlimited users
  - Built in user management console
+
 Cons:
  - Third party hosting
