@@ -17,11 +17,11 @@ If you would like to add an authentication method, check out `CONTRIBUTING.md`.
 
 # Third party
 ### [Firebase](https://firebase.google.com/docs/auth/)
-Free for unlimited users (rate limits eventually). [Read more](https://github.com/christopher-kapic/authentication-methods/blob/main/reviews/firebase.md)
+Free for unlimited users (rate limits eventually). [Read more](https://github.com/christopher-kapic/authentication-methods/blob/main/reviews/firebase.md).
 ### [Amazon Cognito](https://aws.amazon.com/cognito/)
 Free for the first 50,000 users.
 ### [Supabase Auth](https://supabase.io/docs/guides/auth)
-Free for the first 10,000 users. [Read more](https://github.com/christopher-kapic/authentication-methods/blob/main/reviews/supabase.md)
+Free for the first 10,000 users. [Read more](https://github.com/christopher-kapic/authentication-methods/blob/main/reviews/supabase.md).
 ### [Userfront](https://userfront.com/)
 Free for the first 10,000 users.
 ### [Auth0](https://auth0.com/)
