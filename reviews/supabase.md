@@ -1,4 +1,4 @@
-# Supabase Authentication
+# Supabase Authentication ⚡️
 
 Pros:
  - Open source.
@@ -7,8 +7,9 @@ Pros:
  - Only $25/month for 100,000 users.
  - Only $75/month for unlimited users.
  - Built in user management console.
+ - Role-based access to database (PostgreSQL)
 
 Cons:
- - Vendor lock in (authentication API hosting).
+ - Vendor lock-in (authentication API hosting).
    - It might be possible to migrate away.
    - It might be possible to self-host a Supabase instance.
