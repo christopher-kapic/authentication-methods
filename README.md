@@ -42,3 +42,13 @@ _Note: As I am preparing this chart, it is glaringly obvious that Auth0 is a bad
 | $100/month| Unlimited      | 68,181       | Unlimited    | 10,000       | ?            |   ?  | Unlimited          |
 | $140-160/month| Unlimited  | 75,454-79,090| Unlimited    | 50,000       | ?            |   ?  | Unlimited          |
 | $275/month| Unlimited      | 100,000      | Unlimited    | Special use case | ?        |    ? | Unlimited          |
+
+
+# Yet-to-review
+There are several options which I have discovered but not yet researched.
+### [Frontegg](https://frontegg.com/user-management)
+### [Ory](https://www.ory.sh/open-source)
+### [Authelia](https://www.authelia.com/)
+### [Gluu](https://gluu.org/)
+### [Barong](https://github.com/openware/barong)
+### [PrivacyID3A](https://www.privacyidea.org/)
