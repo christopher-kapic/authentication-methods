@@ -4,6 +4,8 @@ A collection of options for how you can handle user authentication in your appli
 
 If you would like to add an authentication method, check out `CONTRIBUTING.md`.
 
+The listed options (except for [Yet-to-review](#yet-to-review)) do _not_ include MVC web frameworks. For more on MVC frameworks, see [MVC frameworks](#mvc-frameworks).
+
 ## Self-hosted
 - [GoTrue (Netlify)](https://github.com/netlify/gotrue)
 - [GoTrue (Supabase)](https://github.com/supabase/gotrue)
@@ -57,3 +59,11 @@ There are several options which I have discovered but not yet researched.
 - [NextJS Auth](https://next-auth.js.org/)
 - [SailsJS](https://sailsjs.com/)
 - [AdonisJS](https://adonisjs.com/)
+
+# MVC Frameworks
+MVC Frameworks often include an authentication system, but you are forced to abide by a more strict way of doing things. Here are MVC frameworks with authentication solutions:
+- [Django](https://www.djangoproject.com/) - Python
+- [Rails](https://rubyonrails.org/) - Ruby
+- [SailsJS](https://sailsjs.com/) - NodeJS
+- [AdonisJS](https://adonisjs.com/) - NodeJS
+- [Laravel](https://laravel.com/) - PHP
