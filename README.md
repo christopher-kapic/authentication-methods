@@ -4,31 +4,31 @@ A collection of options for how you can handle user authentication in your appli
 
 If you would like to add an authentication method, check out `CONTRIBUTING.md`.
 
-# Self-hosted
-### [GoTrue (Netlify)](https://github.com/netlify/gotrue)
-### [GoTrue (Supabase)](https://github.com/supabase/gotrue)
-### [Keycloak](https://www.keycloak.org/)
-### [FusionAuth](https://fusionauth.io/)
+## Self-hosted
+- [GoTrue (Netlify)](https://github.com/netlify/gotrue)
+- [GoTrue (Supabase)](https://github.com/supabase/gotrue)
+- [Keycloak](https://www.keycloak.org/)
+- [FusionAuth](https://fusionauth.io/)
 
-# Open source
-### [GoTrue (Netlify)](https://github.com/netlify/gotrue)
-### [GoTrue (Supabase)](https://github.com/supabase/gotrue)
-### [Keycloak](https://www.keycloak.org/)
+## Open source
+- [GoTrue (Netlify)](https://github.com/netlify/gotrue)
+- [GoTrue (Supabase)](https://github.com/supabase/gotrue)
+- [Keycloak](https://www.keycloak.org/)
 
-# Third party
-### [Firebase](https://firebase.google.com/docs/auth/)
+## Third party
+- [Firebase](https://firebase.google.com/docs/auth/)
 Free for unlimited users (rate limits eventually). [Read more](https://github.com/christopher-kapic/authentication-methods/blob/main/reviews/firebase.md).
-### [Amazon Cognito](https://aws.amazon.com/cognito/)
+- [Amazon Cognito](https://aws.amazon.com/cognito/)
 Free for the first 50,000 users.
-### [Okta](https://www.okta.com/)
+- [Okta](https://www.okta.com/)
 Free for the first 15,000 users.
-### [Supabase Auth](https://supabase.io/docs/guides/auth)
+- [Supabase Auth](https://supabase.io/docs/guides/auth)
 Free for the first 10,000 users. [Read more](https://github.com/christopher-kapic/authentication-methods/blob/main/reviews/supabase.md).
-### [Userfront](https://userfront.com/)
+- [Userfront](https://userfront.com/)
 Free for the first 10,000 users.
-### [Auth0](https://auth0.com/)
+- [Auth0](https://auth0.com/)
 Free for the first 7,000 users.
-### [Netlify Identity](https://docs.netlify.com/visitor-access/identity/)
+- [Netlify Identity](https://docs.netlify.com/visitor-access/identity/)
 Free for the first 1000 users.
 
 # Pricing
@@ -44,13 +44,16 @@ _Note: As I am preparing this chart, it is glaringly obvious that Auth0 is a bad
 | $275/month| Unlimited      | 100,000      | Unlimited    | Special use case | ?        |    ? | Unlimited          |
 
 
-# Yet-to-review
+## Yet-to-review
 There are several options which I have discovered but not yet researched.
-### [Frontegg](https://frontegg.com/user-management)
-### [Ory](https://www.ory.sh/open-source)
-### [Authelia](https://www.authelia.com/)
-### [Gluu](https://gluu.org/)
-### [Barong](https://github.com/openware/barong)
-### [PrivacyID3A](https://www.privacyidea.org/)
-### [SuperTokens](https://supertokens.io/)
-### [Django](https://www.djangoproject.com/)
+- [Frontegg](https://frontegg.com/user-management)
+- [Ory](https://www.ory.sh/open-source)
+- [Authelia](https://www.authelia.com/)
+- [Gluu](https://gluu.org/)
+- [Barong](https://github.com/openware/barong)
+- [PrivacyID3A](https://www.privacyidea.org/)
+- [SuperTokens](https://supertokens.io/)
+- [Django](https://www.djangoproject.com/)
+- [NextJS Auth](https://next-auth.js.org/)
+- [SailsJS](https://sailsjs.com/)
+- [AdonisJS](https://adonisjs.com/)
